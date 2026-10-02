@@ -1,5 +1,5 @@
 .DS_Store
-node_modules/
+node_modules
 .ipynb_checkpoints/
 ~$*.xlsx
 *.inspect.ndjson
@@ -8,3 +8,5 @@ source-spreadsheet.png
 build_nand_workbook.mjs
 Learning AND gate - Learning AND.csv
 Bohyeon Jang CS361 Homework 2.docx.pdf
+Screenshot *.png
+`*.ipynb

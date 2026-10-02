@@ -8,6 +8,10 @@ This repository contains the three parts of CS 361 Homework 2.
 - `NAND_results_preview.png`: summary of the final NAND errors after 200 updates
 - `CS361_HW2_Parts2_3_MNIST.ipynb`: MNIST model comparison, backpropagation equations, and drawing interface
 - `submission_notes.md`: result summary and submission guidance
+- `Part1_NAND_Summary.png`: final NAND error summary
+- `Part2_Equations.png`: loss and backpropagation equations
+- `Part2_Architecture.png`: 256-128-64 model summary
+- `Part2_Results.png`: measured MNIST comparison and validation-loss graph
 
 ## Results
 
