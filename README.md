@@ -4,14 +4,16 @@ This repository contains the three parts of CS 361 Homework 2.
 
 ## Contents
 
-- `CS361_HW2_Part1_NAND.xlsx`: formula-driven NAND neuron training for learning rates 1, 2, and 0.5
+- `01_Part1_NAND_Spreadsheet.xlsx`: formula-driven NAND neuron training for learning rates 1, 2, and 0.5
 - `NAND_results_preview.png`: summary of the final NAND errors after 200 updates
-- `CS361_HW2_Parts2_3_MNIST.ipynb`: MNIST model comparison, backpropagation equations, and drawing interface
+- `08_Parts2_3_MNIST_Code.ipynb`: MNIST model comparison, backpropagation equations, and drawing interface
 - `submission_notes.md`: result summary and submission guidance
-- `Part1_NAND_Summary.png`: final NAND error summary
-- `Part2_Equations.png`: loss and backpropagation equations
-- `Part2_Architecture.png`: 256-128-64 model summary
-- `Part2_Results.png`: measured MNIST comparison and validation-loss graph
+- `02_Part1_NAND_Results.png`: final NAND error summary
+- `03_Part2_Equations.png`: loss and backpropagation equations
+- `04_Part2_Network_Architecture.png`: 256-128-64 model summary
+- `05_Part2_Training_Results.png`: measured MNIST comparison and validation-loss graph
+- `06_Part3_Drawn_Digit.png`: hand-drawn digit used by the interface
+- `07_Part3_Prediction_Results.png`: expected digit, prediction, error, confidence, and probability graph
 
 ## Results
 
